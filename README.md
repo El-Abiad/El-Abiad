@@ -1,13 +1,13 @@
 <p align="center">
-# Mohamed El-Abiad
+Mohamed El-Abiad
 
-## About     : CS Student (3rd Year)
+About     : CS Student (3rd Year)
 
-## Languages : C • C++ • Java
+Languages : C • C++ • Java
 
-## Tools     : Git • GitHub • Linux • Maven • IntelliJ IDEA
+Tools     : Git • GitHub • Linux • Maven • IntelliJ IDEA
 
-## Interest  : Backend Development • Problem Solving
+Interest  : Backend Development • Problem Solving
 </p>
 ---
 
