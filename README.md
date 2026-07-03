@@ -1,23 +1,5 @@
 # Mohamed El-Abiad
 
-<table>
-<tr>
-
-<td width="35%">
-
-```text
-███████╗
-██╔════╝
-█████╗
-██╔══╝
-███████╗
-╚══════╝
-```
-
-</td>
-
-<td width="65%">
-
 ```text
 mohamed@github
 ──────────────────────────────────────────────
@@ -35,11 +17,6 @@ Interests  : Logic
              Software Architecture
              Problem Solving
 ```
-
-</td>
-
-</tr>
-</table>
 
 ---
 
