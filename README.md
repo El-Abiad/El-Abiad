@@ -1,7 +1,5 @@
 # Mohamed El-Abiad
 
-## Name      : Mohamed El-Abiad
-
 ## About     : CS Student (3rd Year)
 
 ## Languages : C • C++ • Java
