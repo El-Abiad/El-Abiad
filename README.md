@@ -1,13 +1,10 @@
 <p align="center">
-Mohamed El-Abiad
+  <h1 align="center">Hi, this is El-Abiad</h1>
 
-About     : CS Student (3rd Year)
-
-Languages : C • C++ • Java
-
-Tools     : Git • GitHub • Linux • Maven • IntelliJ IDEA
-
-Interest  : Backend Development • Problem Solving
+  About: CS Student (3rd Year)<br>
+  Languages: C • C++ • Java<br>
+  Tools: Git • GitHub • Linux • Maven • IntelliJ IDEA<br>
+  Interest: Backend Development • Problem Solving
 </p>
 ---
 
