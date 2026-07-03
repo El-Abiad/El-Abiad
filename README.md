@@ -1,3 +1,4 @@
+<p align="center">
 # Mohamed El-Abiad
 
 ## About     : CS Student (3rd Year)
@@ -7,7 +8,7 @@
 ## Tools     : Git • GitHub • Linux • Maven • IntelliJ IDEA
 
 ## Interest  : Backend Development • Problem Solving
-
+</p>
 ---
 
 <p align="center">
