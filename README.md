@@ -1,11 +1,11 @@
 <h1 align="center">Hi, this is El-Abiad</h1>
 
-<p align="center">
+<h3 align="center">
   About: CS Student (3rd Year)<br>
   Languages: C • C++ • Java<br>
   Tools: Git • GitHub • Linux • Maven • IntelliJ IDEA<br>
   Interest: Backend Development • Problem Solving
-</p>
+</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,git,github,linux,maven,idea" />
