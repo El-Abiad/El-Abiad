@@ -1,21 +1,15 @@
 # Mohamed El-Abiad
 
 ```text
-mohamed@github
-──────────────────────────────────────────────
-
 Name      : Mohamed El-Abiad
+
 About     : CS Student (3rd Year)
 
 Languages : C • C++ • Java
 
-Tools      : Git • GitHub • Linux
-             Maven • IntelliJ IDEA
+Tools     : Git • GitHub • Linux • Maven • IntelliJ IDEA
 
-Interests  : Logic
-             Backend Development
-             Software Architecture
-             Problem Solving
+Interest  : Backend Development • Problem Solving
 ```
 
 ---
