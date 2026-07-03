@@ -1,10 +1,9 @@
 <h1 align="center">Hi, this is El-Abiad</h1>
 
 <h3 align="center">
-  About: CS Student (3rd Year)<br>
-  Languages: C • C++ • Java<br>
-  Tools: Git • GitHub • Linux • Maven • IntelliJ IDEA<br>
-  Interest: Backend Development • Problem Solving
+  I am a Computer Science student at the Faculty of Computing and Artificial Intelligence, 
+  Capital University (formerly Helwan University). I am passionate about backend development, 
+  problem solving, and building efficient, reliable software.
 </h3>
 
 <p align="center">
