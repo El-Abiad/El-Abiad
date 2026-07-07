@@ -13,7 +13,3 @@ development, problem solving, and building efficient, reliable software.
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=elabiad&theme=tokyonight&hide_border=true" />
-</p>
